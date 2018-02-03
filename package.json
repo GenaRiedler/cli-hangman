@@ -1,0 +1,14 @@
+{
+  "name": "cli-hangman",
+  "version": "1.0.0",
+  "description": "hangman command line game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
